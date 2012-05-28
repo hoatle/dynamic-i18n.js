@@ -29,6 +29,10 @@ describe('i18n APIs', function() {
     i18n.translate.should.be.a('function');
   });
 
+  it('i18n chaining', function() {
+    i18n._().messageArguments().appendArgument().locale().translate();
+  });
+
 });
 
 

@@ -1,4 +1,4 @@
-# Dynamic I18N for node.js [![Build Status](https://secure.travis-ci.org/hoatle/dynamic-i18n-node.png?branch=master)](http://travis-ci.org/hoatle/dynamic-i18n-node)
+# Dynamic I18N for node.js [![Build Status](https://secure.travis-ci.org/hoatle/dynamic-i18n.js.png?branch=master)](http://travis-ci.org/hoatle/dynamic-i18n.js)
 
 ## Usage:
 
