@@ -1,0 +1,20 @@
+{
+  "name": "dynamic-i18n",
+  "version": "0.1.0",
+  "description": "Dynamic I18N",
+  "keywords": ["i18n", "dynamic"],
+  "repository": "git://github.com/hoatle/dynamic-i18n-node.git",
+  "author": "Hoat Le <hoatlevan@gmail.com> (http://hoatle.net)",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.5.0" }
+}
