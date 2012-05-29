@@ -1,5 +1,7 @@
 # Dynamic I18N for node.js [![Build Status](https://secure.travis-ci.org/hoatle/dynamic-i18n.js.png?branch=master)](http://travis-ci.org/hoatle/dynamic-i18n.js)
 
+Implementation of VSPLF Dynamic I18N Specification for node.js https://vs-plf.atlassian.net/wiki/display/DINTL/VSPLF+Dynamic+I18N+Specification
+
 ## Usage:
 
 * Simple string:
